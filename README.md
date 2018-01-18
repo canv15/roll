@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Froll.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Froll?ref=badge_shield)
+
 roll
 ----
 
@@ -51,3 +53,7 @@ which had contributions from:
 * @Soulou
 * @paulmach
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Froll.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Froll?ref=badge_large)
